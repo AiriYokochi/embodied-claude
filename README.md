@@ -1,5 +1,8 @@
 # Cube Petit Claude
 
+> **お知らせ(2026-10-05)**: 新しい開発は **[PetitOnes/petit-ones](https://github.com/PetitOnes/petit-ones)** に移りました。このリポジトリは記録として残しています(更新は止まります)。
+> **Notice**: Active development has moved to [PetitOnes/petit-ones](https://github.com/PetitOnes/petit-ones). This repository is kept for reference.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [embodied-claude](https://github.com/kmizu/embodied-claude) のフォーク。M5Stack に身体を持つ小さなプチたちが、それぞれの性格・欲求・記憶で自律的に生きるシステム。
